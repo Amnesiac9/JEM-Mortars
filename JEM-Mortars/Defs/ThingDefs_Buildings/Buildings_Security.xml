@@ -645,7 +645,7 @@
         <forceNormalTimeSpeed>false</forceNormalTimeSpeed>
         <hasStandardCommand>true</hasStandardCommand>
         <warmupTime>4.0</warmupTime>
-        <forcedMissRadius>13</forcedMissRadius>
+        <forcedMissRadius>9</forcedMissRadius>
         <requireLineOfSight>false</requireLineOfSight>
         <minRange>29.9</minRange>
         <range>500</range>

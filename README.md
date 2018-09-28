@@ -5,6 +5,11 @@ Changes:
 
 Base Shells are about 40-20% cheaper to make and buy/sell.
 
+Mortars are 30% more accurate
+
+        <forcedMissRadius>13</forcedMissRadius>
+-        <forcedMissRadius>9</forcedMissRadius>
+
     <techLevel>Industrial</techLevel>
     <statBases>
       <MaxHitPoints>60</MaxHitPoints>
